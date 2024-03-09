@@ -1,6 +1,6 @@
 # ChenTube 2012
 
-Hacked by the one and only hacker from Bulgaria!
+git
 
 ## Installation
 
